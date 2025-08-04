@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouresPackagesOnline", "TouresPackagesOnline.csproj", "{7AF7BD7B-D0D8-EE16-4066-71D2FDC72C4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AF7BD7B-D0D8-EE16-4066-71D2FDC72C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF7BD7B-D0D8-EE16-4066-71D2FDC72C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF7BD7B-D0D8-EE16-4066-71D2FDC72C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF7BD7B-D0D8-EE16-4066-71D2FDC72C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AFE0825-DEC1-41D7-BE1A-0995B9E4E312}
+	EndGlobalSection
+EndGlobal
